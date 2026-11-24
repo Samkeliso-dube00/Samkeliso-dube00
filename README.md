@@ -55,6 +55,16 @@ I learn by working through practical projects, troubleshooting issues and docume
 
 ---
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samkeliso-dube00&show_icons=true&hide_border=true&bg_color=050B08&title_color=39FF88&icon_color=39FF88&text_color=FFFFFF" height="165" alt="GitHub contribution statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samkeliso-dube00&layout=compact&hide_border=true&bg_color=050B08&title_color=39FF88&text_color=FFFFFF" height="165" alt="Most used programming languages" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - Strengthening AWS services and cloud networking fundamentals.
@@ -64,17 +74,6 @@ I learn by working through practical projects, troubleshooting issues and docume
 - Working with Docker and Kubernetes fundamentals.
 - Understanding CI/CD workflows and deployment automation.
 - Writing clear technical documentation as I learn.
-
----
-
-## 🎓 Education & Certifications
-
-- **Cloud Engineering Studies** — AltSchool Africa
-- **AWS Certified Solutions Architect – Associate** — Expired
-- **Kubernetes and Cloud Native Associate (KCNA)** — The Linux Foundation
-- **Cisco Certified Specialist – Enterprise Core** and **CCNA** — Cisco
-
----
 
 ## 🤝 Connect
 
