@@ -1,18 +1,18 @@
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=39FF88&background=050B08&center=true&vCenter=true&width=1000&height=170&lines=%3E+INITIALIZING+PROFILE...;%3E+SAMKELISO+DUBE;%3E+JUNIOR+DEVOPS+%26+CLOUD+ENGINEER;%3E+LEARN.+BUILD.+AUTOMATE._" alt="Terminal banner: Samkeliso Dube, Junior DevOps and Cloud Engineer" />
-
-  <p>
-    <img src="https://img.shields.io/badge/LOCATION-Zimbabwe-173D2B?style=flat-square&labelColor=101820" alt="Zimbabwe" />
-    <img src="https://img.shields.io/badge/FOCUS-Cloud%20%26%20DevOps-173D2B?style=flat-square&labelColor=101820" alt="Cloud and DevOps" />
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/samkeliso-dube03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/Samkeliso-dube00"><img src="https://img.shields.io/badge/GitHub-Follow-238636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-</div>
+<table width="100%" bgcolor="#050B08" cellpadding="18" cellspacing="0">
+  <tr>
+    <td align="center" bgcolor="#050B08">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=39FF88&background=050B08&center=true&vCenter=true&width=1000&height=170&lines=%3E+INITIALIZING+PROFILE...;%3E+SAMKELISO+DUBE;%3E+JUNIOR+DEVOPS+%26+CLOUD+ENGINEER;%3E+LEARN.+BUILD.+AUTOMATE._" alt="Terminal banner: Samkeliso Dube, Junior DevOps and Cloud Engineer" width="100%" />
+      <p>
+        <img src="https://img.shields.io/badge/LOCATION-Zimbabwe-173D2B?style=flat-square&labelColor=101820" alt="Zimbabwe" />
+        <img src="https://img.shields.io/badge/FOCUS-Cloud%20%26%20DevOps-173D2B?style=flat-square&labelColor=101820" alt="Cloud and DevOps" />
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/samkeliso-dube03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://github.com/Samkeliso-dube00"><img src="https://img.shields.io/badge/GitHub-Follow-238636?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
