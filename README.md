@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=39FF88&center=true&vCenter=true&width=850&height=65&lines=SAMKELISO+DUBE;JUNIOR+DEVOPS+%26+CLOUD+ENGINEER;LEARN.+BUILD.+AUTOMATE." alt="Samkeliso Dube - Junior DevOps and Cloud Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=39FF88&background=050B08&center=true&vCenter=true&width=1000&height=170&lines=%3E+INITIALIZING+PROFILE...;%3E+SAMKELISO+DUBE;%3E+JUNIOR+DEVOPS+%26+CLOUD+ENGINEER;%3E+LEARN.+BUILD.+AUTOMATE._" alt="Terminal banner: Samkeliso Dube, Junior DevOps and Cloud Engineer" />
 
   <p>
     <img src="https://img.shields.io/badge/LOCATION-Zimbabwe-173D2B?style=flat-square&labelColor=101820" alt="Zimbabwe" />
