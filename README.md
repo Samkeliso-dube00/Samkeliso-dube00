@@ -16,7 +16,7 @@
 
 I'm **Samkeliso Dube**, a Junior DevOps and Cloud Engineer from Zimbabwe. I studied **Cloud Engineering at AltSchool Africa** and completed a DevOps internship with **The CloudAdvisory Oy**.
 
-I'm interested in building and understanding the systems behind reliable application delivery — from Linux and cloud infrastructure to automation, containers and CI/CD.
+I'm interested in building and understanding the systems behind reliable application delivery, from Linux and cloud infrastructure to automation, containers and CI/CD.
 
 I learn by working through practical projects, troubleshooting issues and documenting the process. My focus is on developing solid engineering fundamentals and becoming more confident working with real-world infrastructure.
 
