@@ -27,28 +27,28 @@ I learn by working through practical projects, troubleshooting issues and docume
 **CLOUD & INFRASTRUCTURE**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-173D2B?style=flat-square&logo=amazonaws&logoColor=39FF88" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-173D2B?style=flat-square&logo=microsoftazure&logoColor=39FF88" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-173D2B?style=flat-square&logo=terraform&logoColor=39FF88" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-173D2B?style=flat-square&logo=ansible&logoColor=39FF88" alt="Ansible" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
 </p>
 
 **SYSTEMS & CONTAINERS**
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-173D2B?style=flat-square&logo=linux&logoColor=39FF88" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-173D2B?style=flat-square&logo=ubuntu&logoColor=39FF88" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Bash-173D2B?style=flat-square&logo=gnubash&logoColor=39FF88" alt="Bash" />
-  <img src="https://img.shields.io/badge/Docker-173D2B?style=flat-square&logo=docker&logoColor=39FF88" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-173D2B?style=flat-square&logo=kubernetes&logoColor=39FF88" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 **DELIVERY & NETWORKING**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-173D2B?style=flat-square&logo=git&logoColor=39FF88" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-173D2B?style=flat-square&logo=githubactions&logoColor=39FF88" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-173D2B?style=flat-square&logo=nginx&logoColor=39FF88" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
 <sub>Also exploring: networking fundamentals · SSH · reverse proxies · Linux permissions · troubleshooting</sub>
